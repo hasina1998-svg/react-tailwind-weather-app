@@ -9,10 +9,10 @@ const Location = ({ position, description }) => {
         </div>
         <div className="items-center ">
           <div>
-            <h1> LATITUDE:{position.lat} </h1>
+            <h1>Latitude:{position.lat} </h1>
           </div>
           <div>
-            <h1> LONGITUDE:{position.long} </h1>
+            <h1> Longitude:{position.long} </h1>
           </div>
           <div>
             <h1>
